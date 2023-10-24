@@ -1,0 +1,45 @@
+package fundamentals;
+import java.util.*;
+public class AddTwoNumbers {
+
+	public static void main(String[] args) {
+//		int a,b;
+//		int c;
+//		a=12;
+//		b=12;
+//		c=a+b;
+//		System.out.println(c);
+		
+		
+			Scanner s = new Scanner(System.in);//creating a scanner
+//			int a,b;
+//			
+//			a= s.nextInt();
+//			b=s.nextInt();
+//			int c=a+b;
+//			System.out.println(c);
+//			
+//			
+//			//for double
+//			s.nextDouble();
+//			s.nextLong();
+//			s.nextShort();
+		
+			String str = s.next();
+			System.out.println(str);
+			//if you give input as Hello adi it will take Hello only ( 1st word only it will take)
+			
+			//if you want whole line then do
+			String strLine = s.nextLine();
+			System.out.println(strLine);
+			
+			//s.nextChar is not there
+			//you have to do it in indirect way
+			
+			String chr = s.next();
+			char c= chr.charAt(0);
+			System.out.println(c);
+			
+		}
+
+}

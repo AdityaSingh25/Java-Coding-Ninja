@@ -1,0 +1,32 @@
+package fundamentals;
+
+public class AddTwoNumbers {
+
+	public static void main(String[] args) {
+//		int a,b;
+//		int c;
+//		a=12;
+//		b=12;
+//		c=a+b;
+//		System.out.println(c);
+		
+		byte b=11;//1 byte
+		short s=12;//2 byte
+		int i=34;//4 bytes
+		long l= 432424;//8 bytes
+		
+		
+		
+		//Decimals
+		float f=34.67f;//bytes
+		double d = 45543.32423;//8 bytes
+		
+		char ch = 'a';//use single quotes//"a" is a string
+		boolean bool = true;
+		boolean bool2 = false;
+		
+		
+		
+		}
+
+}
