@@ -19,7 +19,7 @@ public class DataTypes {
 //		boolean bool = true;
 //		boolean bool2 = false;
 		
-		System.out.println(Math.pow(2, 15));
+		
 //		int a ;
 //		System.out.println(a);//will throw an error if its not initialized before using that variable
 //		a=10;

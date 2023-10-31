@@ -1,0 +1,13 @@
+package fundamentals;
+
+public class DataTypeStorage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int min = Integer.MIN_VALUE;   // will store min value that a int data type can store
+		int max = Integer.MAX_VALUE;  //will store max value that a int data type can store
+		
+
+	}
+
+}
