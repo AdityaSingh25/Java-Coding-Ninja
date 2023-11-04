@@ -8,13 +8,6 @@ public class DataTypeStorage {
 		int max = Integer.MAX_VALUE;  //will store max value that a int data type can store
 		System.out.println(min+"      --------------      "+max);
 
-		char ch = 'a';
-		// a      -    97
-		//b       -   98
-		//A      -   65
-		//'0'   -   48
-		
-		System.out.println('a'+3);
 	}
 
 }

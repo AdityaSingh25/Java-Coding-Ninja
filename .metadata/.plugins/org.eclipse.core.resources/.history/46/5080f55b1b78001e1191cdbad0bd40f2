@@ -13,8 +13,6 @@ public class DataTypeStorage {
 		//b       -   98
 		//A      -   65
 		//'0'   -   48
-		
-		System.out.println('a'+3);
 	}
 
 }
